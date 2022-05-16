@@ -1,2 +1,2 @@
 # doodles
- Web code for online portfolio containing all of my latest designs.
+Online portfolio for all of my latest designs.
