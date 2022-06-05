@@ -11,5 +11,20 @@
     background-position: center center;
     background-attachment: fixed;
     box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  }
+}
+
+#coverText {
+    margin-top: -100px;
+}
+
+.fa {
+    color: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
 
